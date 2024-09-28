@@ -1,0 +1,18 @@
+{
+	"extension": {
+		"version": "0.6.0",
+		"json": 2
+	},
+	"project": {
+		"name": "hs-red-right-awp",
+		"description": "Red alliance, right side, contributing to Autonomous Win Point",
+		"creationDate": "9/27/2024, 6:00:00 PM",
+		"platform": "V5",
+		"language": "python",
+		"slot": 6,
+		"sdkVersion": "V5_1_0_1_19",
+		"python": {
+			"main": "build/preprocessed.py"
+		}
+	}
+}
