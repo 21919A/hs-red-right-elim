@@ -69,108 +69,69 @@
 <path d="M 1690,1690 l 63,63 a 89,89 0 0,0 0,-126 z" fill="#7777cc"/>
 <path d="M 1690,1690 l 63,-63 a 89,89 0 0,0 -126,0 z" fill="#cc7777"/>
 <path d="M 1690,1690 l -63,-63 a 89,89 0 0,0 0,126 z" fill="#7777cc"/>
-<circle cx="1690" cy="1690" r="63" stroke="#cc5555" fill="none" stroke-width="51"/>
-<circle cx="1690" cy="1690" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="1690" cy="1690" r="38" fill="none" stroke="#000000" stroke-width="3"/>
+<path d="M 1601,1690 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
 <path d="M 1690,-1690 l -63,63 a 89,89 0 0,0 126,0 z" fill="#cc7777"/>
 <path d="M 1690,-1690 l 63,63 a 89,89 0 0,0 0,-126 z" fill="#7777cc"/>
 <path d="M 1690,-1690 l 63,-63 a 89,89 0 0,0 -126,0 z" fill="#cc7777"/>
 <path d="M 1690,-1690 l -63,-63 a 89,89 0 0,0 0,126 z" fill="#7777cc"/>
-<circle cx="1690" cy="-1690" r="63" stroke="#cc5555" fill="none" stroke-width="51"/>
-<circle cx="1690" cy="-1690" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="1690" cy="-1690" r="38" fill="none" stroke="#000000" stroke-width="3"/>
+<path d="M 1601,-1690 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
 <path d="M -1690,1690 l -63,63 a 89,89 0 0,0 126,0 z" fill="#7777cc"/>
 <path d="M -1690,1690 l 63,63 a 89,89 0 0,0 0,-126 z" fill="#cc7777"/>
 <path d="M -1690,1690 l 63,-63 a 89,89 0 0,0 -126,0 z" fill="#7777cc"/>
 <path d="M -1690,1690 l -63,-63 a 89,89 0 0,0 0,126 z" fill="#cc7777"/>
-<circle cx="-1690" cy="1690" r="63" stroke="#5555cc" fill="none" stroke-width="51"/>
-<circle cx="-1690" cy="1690" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="-1690" cy="1690" r="38" fill="none" stroke="#000000" stroke-width="3"/>
+<path d="M -1779,1690 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
 <path d="M -1690,-1690 l -63,63 a 89,89 0 0,0 126,0 z" fill="#7777cc"/>
 <path d="M -1690,-1690 l 63,63 a 89,89 0 0,0 0,-126 z" fill="#cc7777"/>
 <path d="M -1690,-1690 l 63,-63 a 89,89 0 0,0 -126,0 z" fill="#7777cc"/>
 <path d="M -1690,-1690 l -63,-63 a 89,89 0 0,0 0,126 z" fill="#cc7777"/>
-<circle cx="-1690" cy="-1690" r="63" stroke="#5555cc" fill="none" stroke-width="51"/>
-<circle cx="-1690" cy="-1690" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="-1690" cy="-1690" r="38" fill="none" stroke="#000000" stroke-width="3"/>
+<path d="M -1779,-1690 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
 <path d="M 1,1280 a 89,89 0 1,0 178,0" fill="#cc7777"/>
 <path d="M 1,1280 a 89,89 0 1,1 178,0" fill="#7777cc"/>
-<circle cx="90" cy="1280" r="63" stroke="#cc5555" fill="none" stroke-width="51"/>
-<circle cx="90" cy="1280" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="90" cy="1280" r="38" fill="none" stroke="#000000" stroke-width="3"/>
+<path d="M 1,1280 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
 <path d="M 511,1200 a 89,89 0 1,0 178,0" fill="#cc7777"/>
 <path d="M 511,1200 a 89,89 0 1,1 178,0" fill="#7777cc"/>
-<circle cx="600" cy="1200" r="63" stroke="#cc5555" fill="none" stroke-width="51"/>
-<circle cx="600" cy="1200" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="600" cy="1200" r="38" fill="none" stroke="#000000" stroke-width="3"/>
+<path d="M 511,1200 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
 <path d="M 1,1100 a 89,89 0 1,0 178,0" fill="#cc7777"/>
 <path d="M 1,1100 a 89,89 0 1,1 178,0" fill="#7777cc"/>
-<circle cx="90" cy="1100" r="63" stroke="#cc5555" fill="none" stroke-width="51"/>
-<circle cx="90" cy="1100" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="90" cy="1100" r="38" fill="none" stroke="#000000" stroke-width="3"/>
+<path d="M 1,1100 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
 <path d="M -1289,0 a 89,89 0 1,0 178,0" fill="#cc7777"/>
 <path d="M -1289,0 a 89,89 0 1,1 178,0" fill="#7777cc"/>
-<circle cx="-1200" cy="0" r="63" stroke="#cc5555" fill="none" stroke-width="51"/>
-<circle cx="-1200" cy="0" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="-1200" cy="0" r="38" fill="none" stroke="#000000" stroke-width="3"/>
+<path d="M -1289,0 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
 <path d="M 511,-1200 a 89,89 0 1,0 178,0" fill="#cc7777"/>
 <path d="M 511,-1200 a 89,89 0 1,1 178,0" fill="#7777cc"/>
-<circle cx="600" cy="-1200" r="63" stroke="#cc5555" fill="none" stroke-width="51"/>
-<circle cx="600" cy="-1200" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="600" cy="-1200" r="38" fill="none" stroke="#000000" stroke-width="3"/>
+<path d="M 511,-1200 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
 <path d="M -179,1280 a 89,89 0 1,0 178,0" fill="#7777cc"/>
 <path d="M -179,1280 a 89,89 0 1,1 178,0" fill="#cc7777"/>
-<circle cx="-90" cy="1280" r="63" stroke="#5555cc" fill="none" stroke-width="51"/>
-<circle cx="-90" cy="1280" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="-90" cy="1280" r="38" fill="none" stroke="#000000" stroke-width="3"/>
+<path d="M -179,1280 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
 <path d="M -689,1200 a 89,89 0 1,0 178,0" fill="#7777cc"/>
 <path d="M -689,1200 a 89,89 0 1,1 178,0" fill="#cc7777"/>
-<circle cx="-600" cy="1200" r="63" stroke="#5555cc" fill="none" stroke-width="51"/>
-<circle cx="-600" cy="1200" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="-600" cy="1200" r="38" fill="none" stroke="#000000" stroke-width="3"/>
+<path d="M -689,1200 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
 <path d="M -179,1100 a 89,89 0 1,0 178,0" fill="#7777cc"/>
 <path d="M -179,1100 a 89,89 0 1,1 178,0" fill="#cc7777"/>
-<circle cx="-90" cy="1100" r="63" stroke="#5555cc" fill="none" stroke-width="51"/>
-<circle cx="-90" cy="1100" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="-90" cy="1100" r="38" fill="none" stroke="#000000" stroke-width="3"/>
+<path d="M -179,1100 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
 <path d="M 1111,0 a 89,89 0 1,0 178,0" fill="#7777cc"/>
 <path d="M 1111,0 a 89,89 0 1,1 178,0" fill="#cc7777"/>
-<circle cx="1200" cy="0" r="63" stroke="#5555cc" fill="none" stroke-width="51"/>
-<circle cx="1200" cy="0" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="1200" cy="0" r="38" fill="none" stroke="#000000" stroke-width="3"/>
+<path d="M 1111,0 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
 <path d="M -689,-1200 a 89,89 0 1,0 178,0" fill="#7777cc"/>
 <path d="M -689,-1200 a 89,89 0 1,1 178,0" fill="#cc7777"/>
-<circle cx="-600" cy="-1200" r="63" stroke="#5555cc" fill="none" stroke-width="51"/>
-<circle cx="-600" cy="-1200" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="-600" cy="-1200" r="38" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="90" cy="90" r="63" stroke="#cc5555" fill="none" stroke-width="51"/>
-<circle cx="90" cy="90" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="90" cy="90" r="38" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="1490" cy="0" r="63" stroke="#cc5555" fill="none" stroke-width="51"/>
-<circle cx="1490" cy="0" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="1490" cy="0" r="38" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="90" cy="-90" r="63" stroke="#cc5555" fill="none" stroke-width="51"/>
-<circle cx="90" cy="-90" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="90" cy="-90" r="38" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="1200" cy="-1200" r="63" stroke="#cc5555" fill="none" stroke-width="51"/>
-<circle cx="1200" cy="-1200" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="1200" cy="-1200" r="38" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="-90" cy="90" r="63" stroke="#5555cc" fill="none" stroke-width="51"/>
-<circle cx="-90" cy="90" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="-90" cy="90" r="38" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="-1490" cy="0" r="63" stroke="#5555cc" fill="none" stroke-width="51"/>
-<circle cx="-1490" cy="0" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="-1490" cy="0" r="38" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="-90" cy="-90" r="63" stroke="#5555cc" fill="none" stroke-width="51"/>
-<circle cx="-90" cy="-90" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="-90" cy="-90" r="38" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="-1200" cy="-1200" r="63" stroke="#5555cc" fill="none" stroke-width="51"/>
-<circle cx="-1200" cy="-1200" r="89" fill="none" stroke="#000000" stroke-width="3"/>
-<circle cx="-1200" cy="-1200" r="38" fill="none" stroke="#000000" stroke-width="3"/>
-<polyline points="-1497,-597 -497,-597 -497,-597 -1029,-224 -1029,-224 -756,-976 -756,-976 -453,-144" fill="none" stroke="#000000" stroke-width="51" stroke-linejoin="round"/>
-<polyline points="-1503,-603 -503,-603 -503,-603 -1035,-230 -1035,-230 -762,-982 -762,-982 -459,-150" fill="none" stroke="#000000" stroke-width="51" stroke-linejoin="round"/>
-<polyline points="-1500,-600 -500,-600 -500,-600 -1032,-227 -1032,-227 -759,-979 -759,-979 -456,-147" fill="none" stroke="#000000" stroke-width="51" stroke-dasharray="51,102" stroke-linejoin="round"/>
-<polyline points="-1500,-600 -500,-600 -500,-600 -1032,-227 -1032,-227 -759,-979 -759,-979 -456,-147" fill="none" stroke="#55ff55" stroke-width="51" stroke-dasharray="51,102" stroke-dashoffset="102" stroke-linejoin="round"/>
-<polyline points="-1500,-600 -500,-600 -500,-600 -1032,-227 -1032,-227 -759,-979 -759,-979 -456,-147" fill="none" stroke="#ffffff" stroke-width="51" stroke-dasharray="51,102" stroke-dashoffset="51" stroke-linejoin="round"/>
+<path d="M -689,-1200 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 1,90 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 1401,0 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 1,-90 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M 1111,-1200 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#cc5555" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -179,90 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -1579,0 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -179,-90 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -1289,-1200 a 89 89 0 0 0 178 0 a 89 89 0 0 0 -178 0 z m 51 0 a 38 38 0 0 0 76 0 a 38 38 0 0 0 -76 0 z" fill="#5555cc" stroke="#000000" stroke-width="3" fill-rule="evenodd"/>
+<polyline points="-1497,-597 -497,-597 -1029,-224 -756,-976 -453,-144" fill="none" stroke="#ffffff" stroke-width="51" stroke-linejoin="round"/>
+<polyline points="-1503,-603 -503,-603 -1035,-230 -762,-982 -459,-150" fill="none" stroke="#ffffff" stroke-width="51" stroke-linejoin="round"/>
+<polyline points="-1500,-600 -500,-600 -1032,-227 -759,-979 -456,-147" fill="none" stroke="#000000" stroke-width="51" stroke-dasharray="51,102" stroke-linejoin="round"/>
+<polyline points="-1500,-600 -500,-600 -1032,-227 -759,-979 -456,-147" fill="none" stroke="#55ff55" stroke-width="51" stroke-dasharray="51,102" stroke-dashoffset="102" stroke-linejoin="round"/>
+<polyline points="-1500,-600 -500,-600 -1032,-227 -759,-979 -456,-147" fill="none" stroke="#ffffff" stroke-width="51" stroke-dasharray="51,102" stroke-dashoffset="51" stroke-linejoin="round"/>
+<path d="M -1500,-600 l -77 133 a 89 89 0 1 0 154 0 z m -19 177 a 19 19 0 0 0 38 0 a 19 19 0 0 0 -38 0 z" fill="#ff0000" stroke="#ffffff" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -500,-600 l -77 133 a 89 89 0 1 0 154 0 z m -19 177 a 19 19 0 0 0 38 0 a 19 19 0 0 0 -38 0 z" fill="#ff0000" stroke="#ffffff" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -1032,-227 l -77 133 a 89 89 0 1 0 154 0 z m -19 177 a 19 19 0 0 0 38 0 a 19 19 0 0 0 -38 0 z" fill="#ff0000" stroke="#ffffff" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -759,-979 l -77 133 a 89 89 0 1 0 154 0 z m -19 177 a 19 19 0 0 0 38 0 a 19 19 0 0 0 -38 0 z" fill="#ff0000" stroke="#ffffff" stroke-width="3" fill-rule="evenodd"/>
+<path d="M -456,-147 l -77 133 a 89 89 0 1 0 154 0 z m -19 177 a 19 19 0 0 0 38 0 a 19 19 0 0 0 -38 0 z" fill="#ff0000" stroke="#ffffff" stroke-width="3" fill-rule="evenodd"/>
 </g>
 </svg>
