@@ -35,7 +35,6 @@ def autonomous_function():
     clamp.set(True)
     intake.spin_forward()
 
-    wait(1000, MSEC)
     reset_robot_position_and_heading_to_gps()
 
     trigger_turner.turn(305, FRAME_ABSOLUTE)
@@ -51,6 +50,7 @@ def autonomous_function():
 
     trigger_mover.move(Position(-456, -147), REVERSE)
 
+    wait(1000, MSEC)
     reset_robot_position_and_heading_to_gps()
 
     log(("Competition", "competition"), "autonomous_end")
